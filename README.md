@@ -1,5 +1,5 @@
 # Find Your Totem
-[Marshall Briggs](https://github.com/marshdevs)<br>
+[Marshall Briggs](https://github.com/unmrshl)<br>
 [Rich Ung](https://github.com/RichUng)<br>
 [Michelle Liu](https://github.com/michelleliu103)<br>
 [Royce Duong](https://github.com/royceduong)<br>
